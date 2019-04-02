@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\MyProxyPattern\MyProxyPattern\bin\Debug\MyProxyPattern.exe
+C:\Users\ben\source\repos\MyProxyPattern\MyProxyPattern\bin\Debug\MyProxyPattern.pdb
+C:\Users\ben\source\repos\MyProxyPattern\MyProxyPattern\obj\Debug\MyProxyPattern.csprojAssemblyReference.cache
+C:\Users\ben\source\repos\MyProxyPattern\MyProxyPattern\obj\Debug\MyProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\MyProxyPattern\MyProxyPattern\obj\Debug\MyProxyPattern.exe
+C:\Users\ben\source\repos\MyProxyPattern\MyProxyPattern\obj\Debug\MyProxyPattern.pdb
